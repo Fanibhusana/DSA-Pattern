@@ -4,4 +4,4 @@ A collection of common Data Structures and Algorithms (DSA) patterns with clear 
 
 ## Patterns Covered
 
-- Two Pointers
+- Two Pointers : [Learn more about the Two Pointers pattern](Two%20Pointers.md)
